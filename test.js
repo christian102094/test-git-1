@@ -12,9 +12,3 @@ function test3(param1, param2) {
 function test4(param1, param2) {
   console.log("abc");
 }
-function test5(param1, param2) {
-  console.log("abc");
-}
-function feature11(param1, param2) {
-  console.log("feat11");
-}
