@@ -1,0 +1,3 @@
+[submodule "lib/ToProgress"]
+	path = lib/ToProgress
+	url = https://github.com/djyde/ToProgress
