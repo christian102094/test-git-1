@@ -18,4 +18,7 @@ function test5(param1, param2) {
 
 function feature(param1, param2) {
   console.log("feat");
+
+function feature11(param1, param2) {
+  console.log("feat11");
 }
