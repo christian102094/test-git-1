@@ -15,3 +15,7 @@ function test4(param1, param2) {
 function test5(param1, param2) {
   console.log("abc");
 }
+
+function feature(param1, param2) {
+  console.log("feat");
+}
